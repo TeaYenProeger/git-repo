@@ -1,0 +1,38 @@
+.top-nav-bar {
+    overflow: hidden;
+    background-color: #132D48;
+    height: 115px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-picture {
+    float: left;
+    margin-left: auto;
+    padding: 14px 16px;
+}
+
+#website-logo {
+    float: left;
+    color: #FFFFFF;
+    margin-right: auto;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+.top-nav-bar a {
+    float: left;
+    color: #FFFFFF;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+.top-nav-bar a:hover {
+    background-color: #E96C57;
+  }
+
+  .top-nav-bar img {
+    height: 50px;
+    background-color: #FFFFFF;
+  }
